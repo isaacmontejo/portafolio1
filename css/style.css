@@ -1,0 +1,79 @@
+header{
+	background-color: #FFFFFF;
+	padding: 15px 0;
+	text-align: center;
+}
+
+#foto{
+	background-image: url("../img/mi cámara.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: right;
+	padding: 200px 0;
+	color: #FFFFFF;
+}
+#foto h3{
+	font-weight: 700;
+	font-size: 50px;
+}
+#foto h1{
+	font-weight: 350
+}
+
+#acerca h2{
+	text-align: center;
+	font-weight: 700;
+}
+
+#acerca{
+	padding-top: 60px;
+	padding-bottom: 80px;
+	background-color:#F8AB1A;
+}
+#acerca h6{
+	text-align: center;
+	font-weight: 350;
+	margin-bottom: 60px;
+	padding-top: 10px;
+}
+#acerca h3{
+	font-weight: 420;
+}
+#acerca p{
+	text-align: left;
+}
+#acerca .fotoo{
+	margin: 0 60px;
+}
+
+#portafolio{
+	background-color: #000;
+	color: #FFFFFF;
+	padding: 50px 0;
+}
+#portafolio h2{
+	text-align: center;
+	font-weight: 700;
+	padding-top: 50px;
+}
+#portafolio h6{
+	text-align: center;
+	font-weight: 300;
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+
+#contacto{
+	background-color: #FCDA16;
+	padding: 70px 0;
+}
+
+footer{
+	background-color: #FFF;
+	text-align: center;
+	padding-top: 35px;
+}
+footer .contacto{
+	margin-top: 25px;
+}
